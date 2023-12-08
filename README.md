@@ -1,72 +1,44 @@
+<h1 align="center">Hi 👋, I'm Foysal Arham</h1>
 
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
-    
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Foysal Arham a MERN Stack Developer from BanglaDesh.
 
-### Portfolio: No protfolio Availble now
 
-<a href="https://twitter.com/dhanani_brijesh">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/singer_brijesh_dhanani">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://youtu.be/X_zgw9GojSc">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<br />
-<br />
+🌱 I’m currently learning **WEB Development Full-Stack(MERN)**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-### 👨‍💻 Languages and Tools
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br>
 
-<br />
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+<hr width="36%" >
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Foysal432&show_icons=true&theme=dark&locale=en&layout=compact" alt="Foysal432" /></p>
 
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Foysal432&show_icons=true&theme=dark&locale=en" alt="Foysal432" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Foysal432&theme=dark" alt="Foysal432" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Foysal Arham" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Foysal" height="30" width="40" /></a>
 </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Foysal432&label=Profile%20views&color=0e75b6&style=flat" alt="Foysal432" /> </p>
 
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
+------
 
------
 
-Credits: [BRdhanani](https://github.com/brdhanani)
+[Foysal432](https://github.com/Foysal432)
 
-Last Edited on: 29/03/2021
