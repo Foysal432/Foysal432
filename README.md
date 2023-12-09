@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Foysal Arham</h1>
 
-![Foysal Arham](https://github.com/Foysal432/Foysal432/assets/140540574/5c547f91-f72c-4a64-9989-5c41fac6d389)
+![Foysal Arham (1)](https://github.com/Foysal432/Foysal432/assets/140540574/e76468aa-595b-43e1-988d-3d4ce8da0542)
+
 
 
 
