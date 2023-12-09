@@ -34,7 +34,7 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Foysal Arham" height="30" width="40" /></a>
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffoysal-arham-8333352a4%3Ffbclid%3DIwAR3lF5hLcduhajByX__rXxTodiWW-2EJ5Wb6LRdXghL524wVyDfFPj5UNA4&h=AT0BWQK6A0ydAyvIGZLUn1r48ZABvg0ify5a94i36oFN9LZASIA_Swh8Z40seNpt-wVJaggE6F5MGRlB5BmegJyAHZjhLi92Icd6nf2dKNIiMW9jIn4Q40TEowLJRkK1P08Jhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Foysal Arham" height="30" width="40" /></a>
 <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Ffoysalarham%3Figshid%3DOGQ5ZDc2ODk2ZA%253D%253D%26fbclid%3DIwAR2-hlW1yFDug8MK4R03fC9NIbFHduXlwEBh1DsDCi_GyaWQtnO5RQg6nuE&h=AT0BWQK6A0ydAyvIGZLUn1r48ZABvg0ify5a94i36oFN9LZASIA_Swh8Z40seNpt-wVJaggE6F5MGRlB5BmegJyAHZjhLi92Icd6nf2dKNIiMW9jIn4Q40TEowLJRkK1P08Jhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Foysal" height="30" width="40" /></a>
 </p>
 <br>
