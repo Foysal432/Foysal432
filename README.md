@@ -42,7 +42,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Foysal432&label=Profile%20views&color=0e75b6&style=flat" alt="Foysal432" /> </p>
 
 ------
+# My Recent Finished Project
+# 1.Mobile Shop
+- this projet any user add her phone based on brand name and a user if he want he delete a phone see details and update her added phone
+- ## 🔗 Links
+🔗 [Live link](https://assingment-10-cliend-side.web.app/)
 
+------
+# 2.Food Sharing
+- this website is a Food Sharing Website Any User add food and any one purchase this food and who need this he can purchase it food
+- #### 🔗 Links
+🔗 [Live link](https://assingment-11-3581c.web.app/)
+
+------
+# 3.Edon Education
+- this website is a Eduaction based Website this website have a admin and student,and teacher dashboard, a student apply for teacher and he enroll and buy a class when a admin aproved teacher request he can access teacher dashboard ,and he get all teacher facility
+- ### 🔗 Links
+🔗 [Live link](https://assingment-12-client-cab4f.web.app/)
 
 [Foysal432](https://github.com/Foysal432)
 
